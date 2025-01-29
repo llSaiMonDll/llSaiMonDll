@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Kampol Suwannatam
 
-🚀 **Software Developer | Mobile & Web Enthusiast | Machine Learning Explorer**  
+🚀 **Software Developer | Mobile & Web Enthusiast | Interested in Machine Learning**  
 
 I'm a **third-year Computer Science student** passionate about **mobile and web development** using **Flutter, React, Node.js, and Prisma**. I also have experience in **machine learning**, particularly **real-time object detection with YOLOv8**.  
 
