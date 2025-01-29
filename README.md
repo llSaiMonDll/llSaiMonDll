@@ -31,4 +31,3 @@ I'm a **third-year Computer Science student** passionate about **mobile and web 
 
 ---
 
-⚡ **Fun Fact:** I love exploring AI-powered applications and optimizing systems for better performance! 🚀  
