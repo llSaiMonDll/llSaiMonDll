@@ -2,13 +2,13 @@
 
 🚀 **Software Developer | Mobile & Web Enthusiast | Interested in Machine Learning**  
 
-I'm a **third-year Computer Science student** passionate about **mobile and web development** using **Flutter, React, Node.js, and Prisma**. I also have experience in **machine learning**, particularly **real-time object detection with YOLOv8**.  
+I'm a **third-year Computer Science student** at King Mongkut’s University of Technology Thonburi (KMUTT), passionate about **mobile and web development** using **Flutter, React, Node.js, and Prisma**. I also have experience in **machine learning**, particularly **real-time object detection with YOLOv8**.  
 
 💡 I find something new to experience and challenge myself. I'm ready to learn and I'm ready to improve myself better.
 
 ---
 
-## 🚀 Tech Stack
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -20,6 +20,7 @@ I'm a **third-year Computer Science student** passionate about **mobile and web 
 
 ### 📫 **Let's Connect!**  
 📧 Email: kampol.suwannatham@gmail.com  
+📱 Phone: 091-946-3346
 💼 LinkedIn: www.linkedin.com/in/kampol-suwannatham
 📘 Facebook: https://www.facebook.com/phara.sel.ta.mxn.2024
 
