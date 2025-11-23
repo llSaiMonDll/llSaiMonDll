@@ -2,7 +2,7 @@
 
 🚀 **Software Developer | Mobile & Web Enthusiast | Interested in Machine Learning**  
 
-I'm a **third-year Computer Science student** at King Mongkut’s University of Technology Thonburi (KMUTT), passionate about **mobile and web development** using **Flutter, React, Node.js, and Prisma**. I also have experience in **machine learning**, particularly **real-time object detection with YOLOv8**.  
+I am a third-year student in Computer Science (CS) at King Mongkut’s University of Technology Thonburi (KMUTT), who is interested in website development.
 
 💡 I find something new to experience and challenge myself. I'm ready to learn and I'm ready to improve myself better.
 
