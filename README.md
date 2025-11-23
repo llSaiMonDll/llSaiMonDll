@@ -8,7 +8,7 @@ I'm a **third-year Computer Science student** passionate about **mobile and web 
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 Tech Stack
 <p align="left">
 </p>
 
