@@ -19,9 +19,12 @@ I'm a **third-year Computer Science student** at King Mongkut’s University of 
 ---
 
 ### 📫 **Let's Connect!**  
-📧 Email: kampol.suwannatham@gmail.com  
+📧 Email: kampol.suwannatham@gmail.com
+</br>
 📱 Phone: 091-946-3346
+</br>
 💼 LinkedIn: www.linkedin.com/in/kampol-suwannatham
+</br>
 📘 Facebook: https://www.facebook.com/phara.sel.ta.mxn.2024
 
 ---
